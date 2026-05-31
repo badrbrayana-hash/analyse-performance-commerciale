@@ -104,3 +104,7 @@ projet-sales-analytics/
 ---
 
 *Projet de portfolio data. Jeu de données public utilisé à des fins de démonstration.*
+
+# Author
+
+Powered by **Ben Rayana Badr**
